@@ -1,5 +1,4 @@
-<div align = center> <h1> Hi, I'm myzu👋 </h1> 
-</div>
+Hello, I'm myzu 😼
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiju-kim)](https://github.com/anuraghazra/github-readme-stats)
 
