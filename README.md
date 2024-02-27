@@ -1,7 +1,10 @@
 <div align = center> <h1> Hi, I'm myzu👋 </h1> 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?huiju-kim&langs_count=10&layout=compact&theme=dark)](https://github.com/huiju-kim/huiju-kim)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiju-kim)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
