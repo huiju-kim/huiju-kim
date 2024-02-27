@@ -7,7 +7,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiju-kim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiju-kim&bg_color=22272e&title_color=58a6ff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
