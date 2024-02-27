@@ -1,7 +1,7 @@
 <h2>Hello, I'm myzu 😼</h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiju-kim&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiju-kim&bg_color=22272e&title_color=fff&text_color=c9d1d9)
 
 
 
